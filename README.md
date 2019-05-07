@@ -1,3 +1,2 @@
 # suduku
-数独游戏
-[https://machaosuper.github.io/suduku/]
+[数独游戏]( https://mica-ma.github.io/suduku/)
